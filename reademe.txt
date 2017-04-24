@@ -3,4 +3,4 @@ git is free software.
 git tracks changes.
 git tracks changes of files.
 githubtest.
-Creating a new branch is quick.
+Creating a new branch is quick $ simple.
